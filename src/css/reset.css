@@ -1,0 +1,8 @@
+@layer reset {
+  * {
+    direction: rtl;
+  }
+  a {
+    @apply cursor-pointer;
+  }
+}

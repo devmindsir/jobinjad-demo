@@ -1,0 +1,7 @@
+@import "./fonts.css";
+@import "tailwindcss";
+@import "./reset.css";
+@import "./theme.css";
+@import "./utility.css";
+@import "./components.css";
+@import "./base.css";
